@@ -1,0 +1,119 @@
+body {
+  background-color: #7FBCD2;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+  
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+  
+.rotherland {
+
+  font-family: Anordighos;
+  font-size: 60px;
+
+}
+
+.Helvetica{
+  font-family: Helvetica;
+  font-size: 22px;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+  margin-top: 100px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+  margin-top: 30px;
+  font-size: 18px;
+}
+
+.pic {
+
+  width: 280px;
+  margin-top: 100px;
+
+}
+
+.top-container {
+
+  position: relative;
+
+}
+
+.top-cloud{
+
+  width: 250px;
+  position: absolute;
+  right: 470px;
+  top: 40px;
+
+}
+
+.bottom-cloud {
+
+  width: 250px;
+  position: absolute;
+  left: 470px;
+
+}
+
+.des {
+
+  padding-top: 120px;
+
+}
+
+.dev {
+
+  padding-bottom: 30px;
+
+}
+
+.mountain {
+
+  padding-top: 120px;
+
+}
